@@ -4,7 +4,7 @@ import './index.css';
 import App from './components/App';
 import * as serviceWorker from './serviceWorker';
 //estilos de css de bootstrap
-import "bootstrap/dist/css/bootstrap.min.css";
+// import "bootstrap/dist/css/bootstrap.min.css";
 //mis estilos propios 
 import "./components/conponentesSecundarios/componenteApp.css"
 
