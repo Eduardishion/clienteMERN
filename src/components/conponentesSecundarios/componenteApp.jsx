@@ -1,3 +1,4 @@
+//importacion de librerias usadas
 import React, { Component } from 'react';
 import {Button,Table} from 'reactstrap';
 import {ToastContainer,toast} from 'react-toastify';          //toastify parapoder crear notificaciones en la aplicacion 
