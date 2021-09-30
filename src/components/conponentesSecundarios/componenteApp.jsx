@@ -21,7 +21,7 @@ class componenteApp extends Component {
             tareas:[],
             _id:'' 
         };
-        //vincular el metodo al estado del componente 
+        //vincular el metodo al estado del componente y evitar error desde la consola, esto se usa solo en compomente de clase
         this.AgregarYActulizarTarea = this.AgregarYActulizarTarea.bind(this);
         this.ManejarElCambio = this.ManejarElCambio.bind(this);
     }
